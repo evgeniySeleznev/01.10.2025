@@ -64,6 +64,37 @@
       }
     ]
   },
+  "776a0440-7042-4b5d-af44-bdeb2bccd1a1": {
+    "id": "776a0440-7042-4b5d-af44-bdeb2bccd1a1",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:36:20.1255615+03:00",
+    "updated_at": "2025-10-01T02:36:23.4009724+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\776a0440-7042-4b5d-af44-bdeb2bccd1a1\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\776a0440-7042-4b5d-af44-bdeb2bccd1a1\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "path": "downloads\\776a0440-7042-4b5d-af44-bdeb2bccd1a1\\svg",
+        "size": 8984,
+        "status": "completed"
+      }
+    ]
+  },
   "7bac88ca-45f7-4b16-bfc1-6e9c604f1c72": {
     "id": "7bac88ca-45f7-4b16-bfc1-6e9c604f1c72",
     "urls": [
