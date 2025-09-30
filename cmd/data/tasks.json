@@ -1,0 +1,148 @@
+{
+  "0879c3a7-cf25-4027-b733-feb2d8912543": {
+    "id": "0879c3a7-cf25-4027-b733-feb2d8912543",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:33:18.1391181+03:00",
+    "updated_at": "2025-10-01T02:33:20.5929968+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\0879c3a7-cf25-4027-b733-feb2d8912543\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\0879c3a7-cf25-4027-b733-feb2d8912543\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "path": "downloads\\0879c3a7-cf25-4027-b733-feb2d8912543\\svg",
+        "size": 8984,
+        "status": "completed"
+      }
+    ]
+  },
+  "78bbf64f-39f5-4122-b285-5b4ad1070f59": {
+    "id": "78bbf64f-39f5-4122-b285-5b4ad1070f59",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:32:06.4275086+03:00",
+    "updated_at": "2025-10-01T02:32:09.5689547+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\78bbf64f-39f5-4122-b285-5b4ad1070f59\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\78bbf64f-39f5-4122-b285-5b4ad1070f59\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "path": "downloads\\78bbf64f-39f5-4122-b285-5b4ad1070f59\\svg",
+        "size": 8984,
+        "status": "completed"
+      }
+    ]
+  },
+  "98c543c9-81b3-4ea0-93f5-0de56270a3c5": {
+    "id": "98c543c9-81b3-4ea0-93f5-0de56270a3c5",
+    "urls": [
+      "https://example.com/file1.jpg",
+      "https://example.com/file2.pdf"
+    ],
+    "status": "failed",
+    "created_at": "2025-10-01T02:29:29.151965+03:00",
+    "updated_at": "2025-10-01T02:29:31.9409849+03:00",
+    "files": [
+      {
+        "url": "https://example.com/file1.jpg",
+        "status": "failed",
+        "error": "HTTP 404: 404 Not Found"
+      },
+      {
+        "url": "https://example.com/file2.pdf",
+        "status": "failed",
+        "error": "HTTP 404: 404 Not Found"
+      }
+    ]
+  },
+  "c52a8582-04f2-4752-b63a-60eb15e9388b": {
+    "id": "c52a8582-04f2-4752-b63a-60eb15e9388b",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:30:25.0656471+03:00",
+    "updated_at": "2025-10-01T02:30:27.8035576+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\c52a8582-04f2-4752-b63a-60eb15e9388b\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\c52a8582-04f2-4752-b63a-60eb15e9388b\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "path": "downloads\\c52a8582-04f2-4752-b63a-60eb15e9388b\\svg",
+        "size": 8984,
+        "status": "completed"
+      }
+    ]
+  },
+  "d02145ce-3d25-4e55-9343-c6e4c65ff360": {
+    "id": "d02145ce-3d25-4e55-9343-c6e4c65ff360",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:31:41.0357541+03:00",
+    "updated_at": "2025-10-01T02:31:44.5441318+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\d02145ce-3d25-4e55-9343-c6e4c65ff360\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\d02145ce-3d25-4e55-9343-c6e4c65ff360\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "path": "downloads\\d02145ce-3d25-4e55-9343-c6e4c65ff360\\svg",
+        "size": 8984,
+        "status": "completed"
+      }
+    ]
+  }
+}

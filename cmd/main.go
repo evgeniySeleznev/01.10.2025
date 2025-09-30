@@ -55,7 +55,7 @@ func main() {
 	taskUsecase := usecases.NewTaskUsecase(taskRepo, fileRepo)
 	downloadUsecase := usecases.NewDownloadUsecase(taskRepo, fileRepo)
 
-	// Инициализация HTTP обработчиков
+	// Инициализация HTTP-обработчиков
 	taskHandler := httpHandlers.NewTaskHandler(taskUsecase, downloadUsecase)
 
 	// Инициализация сервера
@@ -122,7 +122,7 @@ func main() {
 	<-sigChan
 	log.Println("Остановка сервера...")
 
-	// Отмена контекста для прекращения приема новых задач
+	// Отмена контекста для прекращения приёма новых задач
 	cancel()
 
 	// Graceful остановка пула воркеров
@@ -133,7 +133,7 @@ func main() {
 		log.Printf("Ошибка сохранения задач: %v", err)
 	}
 
-	// Остановка HTTP сервера
+	// Остановка HTTP-сервера
 	shutdownCtx, shutdownCancel := context.WithTimeout(context.Background(), 5*time.Second)
 	defer shutdownCancel()
 
