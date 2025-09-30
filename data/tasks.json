@@ -16,6 +16,37 @@
       }
     ]
   },
+  "153959f4-5626-4b9d-8ced-111a8378cb66": {
+    "id": "153959f4-5626-4b9d-8ced-111a8378cb66",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:38:58.780501+03:00",
+    "updated_at": "2025-10-01T02:39:00.993941+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\153959f4-5626-4b9d-8ced-111a8378cb66\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\153959f4-5626-4b9d-8ced-111a8378cb66\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "path": "downloads\\153959f4-5626-4b9d-8ced-111a8378cb66\\svg",
+        "size": 8984,
+        "status": "completed"
+      }
+    ]
+  },
   "3c14d518-c259-4adc-bd3b-6b99a6a030d1": {
     "id": "3c14d518-c259-4adc-bd3b-6b99a6a030d1",
     "urls": [
@@ -304,9 +335,9 @@
       "https://httpbin.org/image/png",
       "https://httpbin.org/image/svg"
     ],
-    "status": "processing",
+    "status": "completed",
     "created_at": "2025-10-01T02:37:53.7452158+03:00",
-    "updated_at": "2025-10-01T02:37:55.3742403+03:00",
+    "updated_at": "2025-10-01T02:37:58.6969217+03:00",
     "files": [
       {
         "url": "https://httpbin.org/image/jpeg",
@@ -322,7 +353,9 @@
       },
       {
         "url": "https://httpbin.org/image/svg",
-        "status": "pending"
+        "path": "downloads\\cf711e62-ef8b-4f09-af33-c090cfd9b79d\\svg",
+        "size": 8984,
+        "status": "completed"
       }
     ]
   },
