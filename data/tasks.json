@@ -297,6 +297,35 @@
       }
     ]
   },
+  "cf711e62-ef8b-4f09-af33-c090cfd9b79d": {
+    "id": "cf711e62-ef8b-4f09-af33-c090cfd9b79d",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png",
+      "https://httpbin.org/image/svg"
+    ],
+    "status": "processing",
+    "created_at": "2025-10-01T02:37:53.7452158+03:00",
+    "updated_at": "2025-10-01T02:37:55.3742403+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\cf711e62-ef8b-4f09-af33-c090cfd9b79d\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\cf711e62-ef8b-4f09-af33-c090cfd9b79d\\png",
+        "size": 8090,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/svg",
+        "status": "pending"
+      }
+    ]
+  },
   "e2e41bec-0a2f-4071-b9f7-422c6c5d97ac": {
     "id": "e2e41bec-0a2f-4071-b9f7-422c6c5d97ac",
     "urls": [
