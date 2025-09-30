@@ -1,0 +1,176 @@
+{
+  "0aff74b1-eb3c-4b89-9bf2-c1c27faf8127": {
+    "id": "0aff74b1-eb3c-4b89-9bf2-c1c27faf8127",
+    "urls": [
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:01:56.31499+03:00",
+    "updated_at": "2025-10-01T02:01:58.2261675+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\0aff74b1-eb3c-4b89-9bf2-c1c27faf8127\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  },
+  "3c14d518-c259-4adc-bd3b-6b99a6a030d1": {
+    "id": "3c14d518-c259-4adc-bd3b-6b99a6a030d1",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T01:54:38.5015612+03:00",
+    "updated_at": "2025-10-01T02:00:27.3396132+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\3c14d518-c259-4adc-bd3b-6b99a6a030d1\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\3c14d518-c259-4adc-bd3b-6b99a6a030d1\\png",
+        "size": 8090,
+        "status": "completed"
+      }
+    ]
+  },
+  "6e5051d3-1a1a-4b6a-8961-d9bfff5f827d": {
+    "id": "6e5051d3-1a1a-4b6a-8961-d9bfff5f827d",
+    "urls": [
+      "https://httpbin.org/delay/3",
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:10:11.7535702+03:00",
+    "updated_at": "2025-10-01T02:10:18.0929687+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/delay/3",
+        "path": "downloads\\6e5051d3-1a1a-4b6a-8961-d9bfff5f827d\\3",
+        "size": 320,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\6e5051d3-1a1a-4b6a-8961-d9bfff5f827d\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  },
+  "7bac88ca-45f7-4b16-bfc1-6e9c604f1c72": {
+    "id": "7bac88ca-45f7-4b16-bfc1-6e9c604f1c72",
+    "urls": [
+      "https://httpbin.org/image/jpeg",
+      "https://httpbin.org/image/png"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:10:03.9428464+03:00",
+    "updated_at": "2025-10-01T02:10:06.5157347+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\7bac88ca-45f7-4b16-bfc1-6e9c604f1c72\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      },
+      {
+        "url": "https://httpbin.org/image/png",
+        "path": "downloads\\7bac88ca-45f7-4b16-bfc1-6e9c604f1c72\\png",
+        "size": 8090,
+        "status": "completed"
+      }
+    ]
+  },
+  "84d8921a-c625-4091-a072-6760a6988a5c": {
+    "id": "84d8921a-c625-4091-a072-6760a6988a5c",
+    "urls": [
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:00:31.240082+03:00",
+    "updated_at": "2025-10-01T02:00:31.6074193+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\84d8921a-c625-4091-a072-6760a6988a5c\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  },
+  "8bd31403-0926-41a4-a0e2-8bb90ce91e94": {
+    "id": "8bd31403-0926-41a4-a0e2-8bb90ce91e94",
+    "urls": [
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T01:58:14.7883402+03:00",
+    "updated_at": "2025-10-01T02:00:26.7678531+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\8bd31403-0926-41a4-a0e2-8bb90ce91e94\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  },
+  "99e2510f-0c0c-4bb0-b201-dc8d98e992e7": {
+    "id": "99e2510f-0c0c-4bb0-b201-dc8d98e992e7",
+    "urls": [
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:01:48.4893951+03:00",
+    "updated_at": "2025-10-01T02:01:51.2147156+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\99e2510f-0c0c-4bb0-b201-dc8d98e992e7\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  },
+  "ae0f2249-4fe5-48d5-a197-efdaa85b11af": {
+    "id": "ae0f2249-4fe5-48d5-a197-efdaa85b11af",
+    "urls": [
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T01:56:49.4510838+03:00",
+    "updated_at": "2025-10-01T02:00:26.5921957+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\ae0f2249-4fe5-48d5-a197-efdaa85b11af\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  },
+  "b18d9468-8392-42a8-aaa8-f6a008510f8f": {
+    "id": "b18d9468-8392-42a8-aaa8-f6a008510f8f",
+    "urls": [
+      "https://httpbin.org/image/jpeg"
+    ],
+    "status": "completed",
+    "created_at": "2025-10-01T02:01:45.3296764+03:00",
+    "updated_at": "2025-10-01T02:01:48.5776269+03:00",
+    "files": [
+      {
+        "url": "https://httpbin.org/image/jpeg",
+        "path": "downloads\\b18d9468-8392-42a8-aaa8-f6a008510f8f\\jpeg",
+        "size": 35588,
+        "status": "completed"
+      }
+    ]
+  }
+}
